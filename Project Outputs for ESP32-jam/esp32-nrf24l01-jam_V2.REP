@@ -2,26 +2,30 @@
 FileName = esp32-nrf24l01-jam_V2.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Overlay
-      File : esp32-nrf24l01-jam_V2.GTO
+Generating : Bottom Solder
+      File : esp32-nrf24l01-jam_V2.GBS
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : esp32-nrf24l01-jam_V2.GTP
-
-    Adding Layer      : Top Paste
+Generating : Top Layer
+      File : esp32-nrf24l01-jam_V2.GTL
 
     Adding Layer      : Top Layer
 
@@ -36,6 +40,18 @@ Used DCodes :
     D20
     D21
     D22
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
 *************************************************************
 
 *************************************************************
@@ -68,25 +84,19 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : esp32-nrf24l01-jam_V2.GBS
+Generating : Top Overlay
+      File : esp32-nrf24l01-jam_V2.GTO
 
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
 *************************************************************
 
 *************************************************************
@@ -114,8 +124,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : esp32-nrf24l01-jam_V2.GTL
+Generating : Top Paste
+      File : esp32-nrf24l01-jam_V2.GTP
+
+    Adding Layer      : Top Paste
 
     Adding Layer      : Top Layer
 
@@ -130,18 +142,6 @@ Used DCodes :
     D20
     D21
     D22
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
 *************************************************************
 
 *************************************************************

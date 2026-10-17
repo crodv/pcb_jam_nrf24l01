@@ -1,0 +1,7 @@
+﻿"Comment","Designator","Footprint","LCSC Part #"
+"UMW AMS1117-3.3 fixed 3.3V LDO","U1,U2","SOT-223","C347222"
+"10uF 16V X5R +/-10% MLCC RoHS","C1,C5","0603","C18164635"
+"100nF 50V X7R +/-10% MLCC RoHS","C2,C3,C6,C7","0603","C14663"
+"22uF 10V +/-10% solid tantalum; ESR 2.4 Ohm; 125C; inward L terminals; 3.5x2.8x1.9mm","C4,C8","CASE-B 3528-21","C7198"
+"1kOhm +/-1% 0.1W +/-100ppm/C resistor","R1,R2","0603","C21190"
+"LITEON LTST-C190KRKT red LED; 130deg; 2.4V","D1,D2","0603","C94869"
