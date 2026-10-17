@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: esp32-nrf24l01-jam_V2.PcbDoc   17-10-2026  3:08:00
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : esp32-nrf24l01-jam_V2-Plated.TXT
+ASCII Non-Plated RoundHoles File : esp32-nrf24l01-jam_V2-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.254mm (10mil)                                           Round             61        PTH        333.98mm (13.15inch)
+T2      1mm (39mil)                                               Round             20        PTH        193.52mm (7.62inch)
+T3      1.02mm (40mil)                                            Round             46        PTH        214.72mm (8.45inch)
+T4      2.4mm (94mil)                                             Round             4         NPTH       202.40mm (7.97inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              131
+
+Total Processing Time (hh:mm:ss) : 00:00:00
